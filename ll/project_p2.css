@@ -1,0 +1,219 @@
+body{
+
+display: flex;
+margin: 0;
+padding: 0;
+}
+
+nav{
+    margin-top: 0;
+   height: 1050px;
+   background: lavender;
+   border-right: 2px solid black;
+   padding-left: 0;
+}
+
+
+
+.nav1{
+    text-decoration: none;
+    list-style-type: none;
+margin-top: 10px;
+
+
+padding-left: 0;
+}
+a{
+
+text-decoration: none;
+font-family: cursive;
+font-size: 20px;
+}
+li{
+
+    padding-top: 20px;
+  color: black;
+    border: none;
+  padding-bottom: 20px;
+
+  padding-left: 20px;
+width: 150px;
+padding-right: 100px;
+}
+
+
+
+li:hover{
+
+
+   background: black;
+  
+color: white;
+}
+.eg{
+background: lavender;
+margin-top: 30px;
+margin-left: 20px;
+}
+.aas{
+    display: flex;
+    
+}
+
+.body2{
+background:whitesmoke ;
+width: 1700px;
+}
+.titl{
+
+    margin-left: 740px;
+}
+.frr{
+font: larger;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+padding-top: 20px;
+padding-left: 20px;}
+
+label{
+
+font-size: larger;
+margin-bottom: 7px;
+
+}
+
+input{
+  width: 200px;
+  height: 30px;
+}
+.casa{
+
+margin: 150px;
+
+}
+
+.tarf12,.tarf34{
+
+display: flex;
+margin-bottom: 75px;
+
+}
+.tarf1,.tarf3{
+
+margin-right: 200px;
+
+}
+#one3{
+width: 166px;
+  
+}
+.one4{
+height: 30px;
+
+}
+.azaz{
+display: flex;
+
+}
+.flex{
+  display: flex;
+}
+.tarf4{
+display: flex;
+
+}
+.tarf34{
+  display: flex;
+  
+  }
+
+  #one7{
+height: 30px;
+width: 40px;
+  }
+  #one5,#one6{
+height: 30px;
+margin-right: 10px;
+
+  }
+  textarea{
+    width: 400px;
+  }
+  fieldset{
+padding-left: 310px;
+border: none;
+
+  }
+  button{width:1000px;}
+  .tarf56{
+
+    display: flex;
+  }
+  #kikok{
+
+    width: 150px;
+    height: 75px;
+
+    margin-left: 100px;
+    margin-top: 100px;
+    font-family: cursive;
+    font: larger;
+  }
+
+  #one9,#one10{
+    width: 200px;
+    height: 30px;
+  }
+
+#ikok{
+    
+       width: 150px;
+    height: 75px;
+
+    margin-left: 100px;
+    margin-top: 25px;
+    font-family: cursive;
+    font: larger;
+    
+}
+.trf{
+    display:flex;
+    margin-top:75px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
